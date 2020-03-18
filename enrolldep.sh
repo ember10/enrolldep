@@ -7,3 +7,4 @@ mkdir Settings
 touch Settings/.profilesAreInstalled
 Cd “/Volumes/Macintosh HD/var/db”
 rm .AppleSetupDone
+echo "it worked"
